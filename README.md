@@ -5,4 +5,4 @@ This is a playground for the lab from the Git Branching and Pull Requests lesson
 
 This is the change I have made.
 
-change made from update branch
+change made from update2 branch
